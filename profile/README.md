@@ -1,8 +1,9 @@
 
 <p align="center">
 
+![MOCAP 20170811_162049](https://github.com/user-attachments/assets/578f14af-de1f-4e43-893e-5f920068ef5c)
 
-  <img width="300" height="500" alt="MOCAP_20170811_162049-removebg-preview" src="https://github.com/user-attachments/assets/b0b83ff5-73e0-4660-9231-08ad3e744dac" />
+
   
 </p>
 
