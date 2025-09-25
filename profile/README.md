@@ -112,6 +112,4 @@ Komunitas ini terbuka untuk semua!
 <br>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOC-AP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub Flutter Community"/>
-</p>
+
