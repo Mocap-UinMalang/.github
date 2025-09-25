@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c8f66d1-87a9-4c72-9149-4a964cb79a68" alt="Flutter Community Banner" width="300"/>
+
+
+  <img width="300" height="500" alt="MOCAP_20170811_162049-removebg-preview" src="https://github.com/user-attachments/assets/b0b83ff5-73e0-4660-9231-08ad3e744dac" />
+  
 </p>
 
 
